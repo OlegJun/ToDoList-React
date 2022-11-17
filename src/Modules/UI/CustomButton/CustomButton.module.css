@@ -1,0 +1,15 @@
+.button {
+    padding: 5px;
+    border: 1px solid #000;
+    transition: all 0.5s;
+}
+
+.button:focus {
+    transform: scale(1.02);
+    box-shadow: 0px 0px 2px 2px bisque;
+}
+
+.button:hover {
+    transform: scale(1.02);
+    box-shadow: 0px 0px 2px 2px bisque;
+}
